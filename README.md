@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Adrin
+
+I'm a software engineer and technology enthusiast. I'm currently working for the [vi:sit](https://vi-sit.com/) software company. We are realizing all kind of differnt projects based on .NET with a high focus on testable software design and software architecture.
+
+I'm really passionate about technology which excites people up and moves society forward. So that in the end, everybody can benefit from new technologies.
+
+I'm always curious to learn new things and I'm currently learning python, and C++ (again...😄).
 
 <!--
 **adrinamin/adrinamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

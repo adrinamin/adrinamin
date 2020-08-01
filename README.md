@@ -6,6 +6,8 @@ I'm really passionate about technology which excites people up and moves society
 
 I'm always curious to learn new things and I'm currently learning python, and C++ (again...😄).
 
+If I'm not coding, your will find me at the gym or doing any kind of outdoor activity :blush:.
+
 <!--
 **adrinamin/adrinamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

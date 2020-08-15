@@ -4,7 +4,7 @@ I'm a software engineer and technology enthusiast. I'm currently working for the
 
 I'm really passionate about technology which excites people up and moves society forward. So that in the end, everybody can benefit from new technologies.
 
-I'm always curious to learn new things and I'm currently learning python.
+I'm always curious to learn new things. I'm currently learning python and improving my C++ skills.
 
 If I'm not coding, your will find me at the gym or doing any kind of outdoor activity :blush:.
 

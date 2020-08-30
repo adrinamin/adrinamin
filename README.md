@@ -8,6 +8,14 @@ I'm always curious to learn new things. I'm currently learning python and improv
 
 If I'm not coding, your will find me at the gym or doing any kind of outdoor activity :blush:.
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrinamin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<img align="left" alt="Adrin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adrinamin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+
 <!--
 **adrinamin/adrinamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

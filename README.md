@@ -1,10 +1,10 @@
-### Hi, I'm Adrin
+### Hi, I'm Adrin :wave:
 
 I'm a software engineer and technology enthusiast. I'm currently working for the [vi:sit](https://vi-sit.com/) software company. We are realizing all kind of differnt projects based on .NET with high focus on testable software design and software architecture.
 
 I deeply care about the role of technology in our society. I always try to find ways to use our craft and tools to improve our environment, and eventually peoples lifes. So that in the end, everybody can benefit from new technologies.
 
-I'm always curious to learn new things. I'm currently focusing to improve my skills in python, C++ and cloud computing.
+I'm always curious to learn new things :man_student:. I'm currently focusing to improve my skills in python, C++ and cloud computing.
 
 ---
 

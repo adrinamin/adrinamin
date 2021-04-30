@@ -20,6 +20,8 @@ You'll also find me on following platforms:
 <a href="https://twitter.com/adrinaminsalehi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adrinaminsalehi" height="30" width="30" /></a>
 </p>
 
+---
+
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrinamin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)

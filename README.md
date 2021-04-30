@@ -1,4 +1,8 @@
-### Hi, I'm Adrin :wave:
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adrin
+
+---
+
+![Twitter Follow](https://img.shields.io/twitter/follow/adrinaminsalehi?style=social) ![GitHub followers](https://img.shields.io/github/followers/adrinamin?style=social)
 
 I'm a technology enthusiast and software developer. I love to write code to create awesome things :heart:. 
 
@@ -8,22 +12,20 @@ I deeply care about the role of technology in our society. I always try to find 
 
 I'm always curious to learn new things :man_student:. I'm currently focusing on improving my skills in python, C++ and cloud computing :muscle:.
 
-You'll find me on following platforms:
+You'll also find me on following platforms:
 
 <p align="left">
 <a href="https://dev.to/adrinamin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="adrinamin" height="30" width="30" /></a>
 <a href="https://ch.linkedin.com/in/adrin-amin-salehi-175b14125" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adrinaminsalehi" height="30" width="30" /></a>
-<!--<a href="https://twitter.com/codepo8" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="codepo8" height="30" width="30" /></a>-->
+<a href="https://twitter.com/adrinaminsalehi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="adrinaminsalehi" height="30" width="30" /></a>
 </p>
 
+## &#x1f4c8; My GitHub Stats
 
----
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrinamin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrinamin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-<p align="left"><img align="left" alt="Adrin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adrinamin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /></p>
+[![Adrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrinamin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **adrinamin/adrinamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

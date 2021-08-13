@@ -29,9 +29,15 @@ You'll also find me on following platforms:
 
 [![Adrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrinamin&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ardalis&repo=adrinamin&countColor=%237B1E7A)
+
 <!--
 **adrinamin/adrinamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrinamin&layout=compact&hide=html&theme=dark" alt="adrinamin" />
+<div/>
+<br />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

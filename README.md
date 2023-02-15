@@ -8,7 +8,7 @@ I'm a technology enthusiast and software developer. I love to write code to crea
 
 I deeply care about the role of technology in our society. I always try to find ways to use our craft and tools to improve our environment, and eventually peoples lives. So that in the end, everybody can benefit from new technologies.
 
-I'm always curious to learn new things :man_student:. I'm currently focusing on improving my skills in python and cloud computing :muscle:.
+I'm always curious to learn new things :man_student:. I'm currently focusing on improving my skills cloud computing :muscle:.
 
 You'll also find me on following platforms:
 

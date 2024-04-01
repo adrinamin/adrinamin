@@ -4,12 +4,13 @@ My name is Adrin and I'm a software engineer.
 
 I use GitHub for my personal projects and to learn new tech.
 
-I'm not that obsessed about my GitHub stats or any dev tools that I use. I'm not very bound to a particular technology. I just love to learn new things. If you are interested, you can check out my repos. Maybe you'll find something useful. 
+I'm not that obsessed about my GitHub stats or any dev tools that I use. I'm not very bound to a particular technology. I just love to learn new things. If you are interested, you can check out my repos. Maybe you'll find something useful 😊.
 
+<!--
 Apart from that, I thought to give you some joy with a quick dev joke 😁.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
+-->
 
 <!-- ## &#x1f4c8; My GitHub Stats
 

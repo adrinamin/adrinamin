@@ -3,7 +3,7 @@
 my name is Adrin and I'm a software engineer. I use GitHub for my personal projects and to try out new tech. You can find out more about me on my website!
 I'm not that obsessive about specific Github stats. Thus, I thought to give you some joy with a quick dev joke 😁.
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 <!-- ## &#x1f4c8; My GitHub Stats

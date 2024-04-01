@@ -1,7 +1,10 @@
 # Hi there
 
-my name is Adrin and I'm a software engineer. I use GitHub for my personal projects and to try out new tech. You can find out more about me on my website!
-I'm not that obsessive about specific Github stats. Thus, I thought to give you some joy with a quick dev joke 😁.
+My name is Adrin and I'm a software engineer. 
+
+I use GitHub for my personal projects and to learn new tech.
+
+I'm not that obsessive about specific Github stats. If you are interested, you can check out my repos. Maybe you'll find something useful. Apart from that, I thought to give you some joy with a quick dev joke 😁.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
